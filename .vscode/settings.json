@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "node.h": "c",
+        "charmap.h": "c",
+        "heap_function.h": "c",
+        "stdbool.h": "c",
+        "stdlib.h": "c"
+    },
+    "cmake.configureOnOpen": true
+}
